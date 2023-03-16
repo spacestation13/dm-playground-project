@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/_project.iml" filepath="$PROJECT_DIR$/_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/buildroot.iml" filepath="$PROJECT_DIR$/../buildroot/buildroot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../controller/controller.iml" filepath="$PROJECT_DIR$/../controller/controller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../linux/linux.iml" filepath="$PROJECT_DIR$/linux.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../web/web.iml" filepath="$PROJECT_DIR$/../web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildroot.iml" filepath="$PROJECT_DIR$/buildroot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller.iml" filepath="$PROJECT_DIR$/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dm-playground.iml" filepath="$PROJECT_DIR$/dm-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linux.iml" filepath="$PROJECT_DIR$/linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web.iml" filepath="$PROJECT_DIR$/web.iml" />
     </modules>
   </component>
 </project>
