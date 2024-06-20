@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/buildroot">
       <excludeFolder url="file://$MODULE_DIR$/buildroot/output" />
+      <excludeFolder url="file://$MODULE_DIR$/buildroot" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/web">
+      <sourceFolder url="file://$MODULE_DIR$/web/public" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/web/out-tsc" />
+      <excludeFolder url="file://$MODULE_DIR$/web/public/lib" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
