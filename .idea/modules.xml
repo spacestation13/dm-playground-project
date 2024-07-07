@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/buildroot.iml" filepath="$PROJECT_DIR$/buildroot.iml" />
       <module fileurl="file://$PROJECT_DIR$/controller.iml" filepath="$PROJECT_DIR$/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/dm-lezer/dm-lezer.iml" filepath="$PROJECT_DIR$/web/dm-lezer/dm-lezer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dm-playground.iml" filepath="$PROJECT_DIR$/dm-playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/linux.iml" filepath="$PROJECT_DIR$/linux.iml" />
       <module fileurl="file://$PROJECT_DIR$/web.iml" filepath="$PROJECT_DIR$/web.iml" />
